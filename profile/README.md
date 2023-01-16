@@ -1,4 +1,6 @@
-## Hi there 👋
+## dli-invest
+
+Personal investing organization to host various stonk analyze projects.
 
 <!--
 
